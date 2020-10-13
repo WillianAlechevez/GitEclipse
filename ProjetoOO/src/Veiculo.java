@@ -2,7 +2,7 @@
 public class Veiculo {
 	
 	public String modelo() {
-		return "Escreva o modelo";
+		return "Escreva o modelo do Veiculo";
 	}
 	
 	public String marca() {
